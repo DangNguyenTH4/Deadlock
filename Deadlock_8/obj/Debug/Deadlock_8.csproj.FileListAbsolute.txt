@@ -1,0 +1,10 @@
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\bin\Debug\Deadlock_8.exe.config
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\bin\Debug\Deadlock_8.exe
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\bin\Debug\Deadlock_8.pdb
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\obj\Debug\Deadlock_8.csprojResolveAssemblyReference.cache
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\obj\Debug\Deadlock_8.Properties.Resources.resources
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\obj\Debug\Deadlock_8.csproj.GenerateResource.cache
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\obj\Debug\Deadlock_8.csproj.CoreCompileInputs.cache
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\obj\Debug\Deadlock_8.exe
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\obj\Debug\Deadlock_8.pdb
+C:\Users\Dang\source\repos\Deadlock_8\Deadlock_8\obj\Debug\Deadlock_8.Form1.resources
