@@ -1,0 +1,15 @@
+Dong nay de noi 1 so thu, Moi 2 dong se cho thong tin ve 1 tien trinh, dong 1 : have, dong 2: want
+A R
+A S
+B
+B T
+C
+C S
+D U
+D S T
+E T
+E V
+F W
+F S
+G V
+G U

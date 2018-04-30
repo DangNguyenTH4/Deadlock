@@ -1,0 +1,11 @@
+Take data from file
+
+One Process have two lines
+First char of line is name of Process
+First line show : Resource'name, that is Process have 
+Second line show: Resource'name, that is Process Want
+
+Add a new Process From Window Form
+Insert Process's name
+Insert Name of Resources, that is Process Have, separated by space " "
+Insert Name of Resources, that is Process Want, separated by space " "
